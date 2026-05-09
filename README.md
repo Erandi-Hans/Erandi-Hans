@@ -11,14 +11,16 @@ I am a passionate developer and researcher dedicated to building scalable web ap
 - Technical writer on **Medium**, sharing insights on NLP and Web Development.
 
 ### GitHub Stats
-<p align="left">
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Erandi-Hans&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Erandi's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erandi-Hans&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
+
 ---
 
-### 🛠️ Skills & Interests
+### Skills & Interests
 - **Frontend:** React.js, Vite, Tailwind CSS, Framer Motion
 - **Backend:** .NET Core, C#, SQL Server, REST APIs
 - **Data Science:** Python, Semantic Computing, NLP (KeyBERT, YAKE, BERT)
