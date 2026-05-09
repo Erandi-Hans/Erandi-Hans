@@ -10,10 +10,11 @@ I am a passionate developer and researcher dedicated to building scalable web ap
 - Specialized in the **React.js** and **.NET Core** technology stacks.
 - Technical writer on **Medium**, sharing insights on NLP and Web Development.
 
-### GitHub Stats
-![Erandi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erandi-Hans&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erandi-Hans&layout=compact&theme=radical)
+### My GitHub Metrics
+<p align="left">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Erandi-Hans&show_icons=true&theme=radical" alt="Erandi's Stats" width="400" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Erandi-Hans&layout=compact&theme=radical" alt="Top Langs" width="300" />
+</p>
 
 
 ---
