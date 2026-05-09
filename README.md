@@ -11,11 +11,9 @@ I am a passionate developer and researcher dedicated to building scalable web ap
 - Technical writer on **Medium**, sharing insights on NLP and Web Development.
 
 ### GitHub Stats
+![Erandi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erandi-Hans&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Erandi-Hans&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Erandi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erandi-Hans&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erandi-Hans&layout=compact&theme=radical)
 
 
 ---
