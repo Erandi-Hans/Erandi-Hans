@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm Erandi Hansika
 
-<!--
-**Erandi-Hans/Erandi-Hans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate at University of Vavuniya | Full-Stack Developer (React.js & .NET Core) | NLP Researcher
 
-Here are some ideas to get you started:
+## Technical Writing
+I love documenting my learning journey and sharing tech insights on Medium.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@erandi2287hansika)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erandi-hansika-a286ab225/)
+
+## Skills & Interests
+- **Frontend:** React.js, Vite, Tailwind CSS
+- **Backend:** .NET Core, C#, SQL Server
+- **Research:** Semantic Computing, NLP (spaCy, BERT, KeyBERT)
+- **Methodologies:** Agile, Jira, Git/GitHub
+
+---
+* Researching at IYKONS Industry Research Park*
