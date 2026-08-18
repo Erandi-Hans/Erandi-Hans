@@ -58,6 +58,13 @@ Motivated and enthusiastic BICT (Hons) undergraduate at the **University of Vavu
 
 ---
 
+###  GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Erandi-Hans&theme=tokyo-night&bg_color=18181b&color=38bdf8&line=38bdf8&point=ffffff&hide_border=true" width="100%" alt="Activity Graph"/>
+</p>
+---
+
 
 
 
@@ -87,11 +94,5 @@ Motivated and enthusiastic BICT (Hons) undergraduate at the **University of Vavu
   * *Recognized with a Letter of Appreciation for support, leadership, and commitment.*
 
 
----
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Erandi-Hans&theme=tokyo-night&bg_color=18181b&color=38bdf8&line=38bdf8&point=ffffff&hide_border=true" width="100%" alt="Activity Graph"/>
-</p>
 
