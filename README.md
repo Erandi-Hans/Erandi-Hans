@@ -68,31 +68,5 @@ Motivated and enthusiastic BICT (Hons) undergraduate at the **University of Vavu
 
 
 
-###  Research Experience
-
-* **Undergraduate Researcher – Semantic Computing** | *IYKONS Industry Research Park* (2026 – Present)
-  * Conducting research on NLP-based keyword extraction and transformer models (BERT, SBERT) for automated document analysis.
-  * Collaborating with research leads to design scalable models for real-world enterprise applications.
-* **Independent Researcher – AI Career Systems** | *University of Vavuniya* (2026 – Present)
-  * Developing an AI-Driven Skill Gap Analysis framework paired with an automated CV generation system for ICT undergraduates.
-* **Final Year Researcher – Strategic Planning Systems** | *University of Vavuniya* (2026 – Present)
-  * Researching digitization mechanisms for strategic, action, and financial planning systems focusing on database security and integrity.
-
----
-
-###  Open Source & Volunteering
-
-* **ICT Expo 4.0** | *University of Vavuniya* (2026)
-  * **Industry & Sponsorship Co-Lead:** Serving alongside a dedicated team for the collaborative academic and industry event organized by the Department of Information and Communication Technology, University of Vavuniya.
-
-* **Open Source Contributor** | *SSoC Season 5 & Hiero (Linux Foundation)* (2026 – Present)
-  * Actively contributed to large-scale React.js projects.
-  * Provided critical technical documentation and content fixes for the Hiero decentralized ledger project.
-
-* **Lab Assistant & Student Mentor** | *University of Vavuniya & IYKONS Ltd.* (2026)
-  * Facilitated technical workshops during the 10-Day Intensive Processing Bootcamp, guiding students on Agile/GitHub workflows and project pitching.
-  * *Recognized with a Letter of Appreciation for support, leadership, and commitment.*
-
-
 
 
