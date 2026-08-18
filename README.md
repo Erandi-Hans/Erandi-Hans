@@ -1,18 +1,28 @@
-# Hi there 👋, I'm Erandi Hansika
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=185&section=header&text=Full-Stack%20Engineer%20%26%20AI%20Researcher&fontSize=32&animation=fadeIn&fontColor=auto" width="100%"/>
+</p>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Erandi%20Hansika&fontSize=50&animation=fadeIn)
+<p align="center">
+  <b>BICT Undergraduate at University of Vavuniya | Full-Stack Developer | ML/AI Enthusiast</b>
+</p>
 
-**BICT Undergraduate at University of Vavuniya | Full-Stack Software Engineer & NLP Researcher**
+<p align="center">
+  <a href="https://erandi-hansika-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-0077B5?style=for-the-badge&logo=google-chrome" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
 ### 🚀 About Me
 
-I am a Bachelor of Information and Communication Technology (BICT) undergraduate at the **University of Vavuniya**, passionate about bridging language and computation through intelligent architectures and modern web technologies.
+I am a Bachelor of Information and Communication Technology (BICT) undergraduate at the **University of Vavuniya**, passionate about bridging language and computation through intelligent architectures, Machine Learning, and modern web technologies.
 
 * 🔬 **Current Research:** Researching **Semantic Keyword Extraction** and NLP applications at **IYKONS Industry Research Park**.
+* 🤖 **AI & ML Exploration:** Actively expanding expertise in Machine Learning models, deep learning architectures, and AI-driven integrations.
 * 💻 **Core Tech Stack:** Specialized in **React.js, Next.js, MERN Stack,** and **.NET Core**.
 * ✍️ **Technical Writer:** Sharing insights on web development, modern software architecture, and NLP on Medium.
+* 🤝 **Open for Collaboration:** Always open to collaborating on innovative Full-Stack, AI, and NLP-driven open-source projects!
 
 ---
 
@@ -29,32 +39,43 @@ I am a Bachelor of Information and Communication Technology (BICT) undergraduate
 
 ### 💻 Tech Stack & Tools
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+</p>
 
 ---
 
-### 📊 Contribution Graph
+### 📊 GitHub Activity & Stats
 
-![Erandi's GitHub Contribution Chart](https://ghchart.rshah.org/Erandi-Hans)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erandi-Hans&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/Erandi-Hans" alt="Contribution Chart" />
+</p>
 
 ---
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Erandi-Hans)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Erandi-Hans)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erandi.hansika@example.com)
+<p align="center">
+  <a href="https://linkedin.com/in/Erandi-Hans"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@Erandi2287/hansika"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="mailto:erandi2287hansika@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
