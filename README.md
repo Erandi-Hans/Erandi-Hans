@@ -49,6 +49,16 @@ Motivated and enthusiastic BICT (Hons) undergraduate at the **University of Vavu
 
 ---
 
+
+###  Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,py,nextjs,dotnet,cs,ts,html,css,tailwind,nodejs,express,mongodb,git,github,postman,figma,vscode" />
+</p>
+
+---
+
+
 ###  Research Experience
 
 * **Undergraduate Researcher – Semantic Computing** | *IYKONS Industry Research Park* (2026 – Present)
@@ -74,13 +84,6 @@ Motivated and enthusiastic BICT (Hons) undergraduate at the **University of Vavu
   * Facilitated technical workshops during the 10-Day Intensive Processing Bootcamp, guiding students on Agile/GitHub workflows and project pitching.
   * *Recognized with a Letter of Appreciation for support, leadership, and commitment.*
 
----
-
-###  Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,py,nextjs,dotnet,cs,ts,html,css,tailwind,nodejs,express,mongodb,git,github,postman,figma,vscode" />
-</p>
 
 ---
 
