@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=185&section=header&text=Full-Stack%20Engineer%20%26%20AI%20Researcher&fontSize=32&animation=fadeIn&fontColor=auto" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Erandi%20Hansika&fontSize=42&animation=fadeIn&fontColor=ffffff" width="100%"/>
 </p>
 
 <p align="center">
-  <b>BICT Undergraduate at University of Vavuniya | Full-Stack Developer | ML/AI Enthusiast</b>
+  <b>BICT Undergraduate at University of Vavuniya | Intern Software Engineer | ML/AI Enthusiast</b>
 </p>
 
 <p align="center">
   <a href="https://erandi-hansika-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-0077B5?style=for-the-badge&logo=google-chrome" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -16,58 +16,63 @@
 
 ### 🚀 About Me
 
-I am a Bachelor of Information and Communication Technology (BICT) undergraduate at the **University of Vavuniya**, passionate about bridging language and computation through intelligent architectures, Machine Learning, and modern web technologies.
+Motivated and enthusiastic BICT (Hons) undergraduate at the **University of Vavuniya** with a strong passion for Software Engineering and Full-Stack Development. Proven experience in building scalable web applications using MERN, Next.js, and .NET Core technology stacks. Passionate about Semantic Computing and NLP, with active research contributions at **IYKONS Industry Research Park**. Committed to delivering high-quality, user-centered software solutions while leveraging Agile methodologies to thrive in collaborative industry environments.
 
-* 🔬 **Current Research:** Researching **Semantic Keyword Extraction** and NLP applications at **IYKONS Industry Research Park**.
-* 🤖 **AI & ML Exploration:** Actively expanding expertise in Machine Learning models, deep learning architectures, and AI-driven integrations.
+* 🔬 **Current Research:** Researching **Semantic Keyword Extraction** and transformer models (BERT, SBERT) at **IYKONS Industry Research Park**.
+* 🤖 **AI & ML Exploration:** Developing AI-driven skill-gap analysis frameworks and automated document retrieval pipelines.
 * 💻 **Core Tech Stack:** Specialized in **React.js, Next.js, MERN Stack,** and **.NET Core**.
 * ✍️ **Technical Writer:** Sharing insights on web development, modern software architecture, and NLP on Medium.
-* 🤝 **Open for Collaboration:** Always open to collaborating on innovative Full-Stack, AI, and NLP-driven open-source projects!
+* 🤝 **Open Source & Community:** Active contributor to open-source projects like **Hiero** and **Social Summer Of Code (SSoC)**.
 
 ---
 
-### 🌟 Featured Portfolio Projects
+### 🌟 Featured Projects
 
-* 🛠️ **[SkillPivotlk](https://github.com/Erandi-Hans/SkillPivotlk)** — A full-stack career platform designed for skill gap analysis, personalized career recommendations, and professional guidance.  
-  * **Tech Stack:** `React.js` • `.NET Core` • `SQL Server`
-* 🤖 **[SillaraAI](https://github.com/Erandi-Hans/SillaraAI)** — An AI-powered platform featuring modern UI design, robust state management, and a seamless user experience.  
-  * **Tech Stack:** `MongoDB` • `Express.js` • `React.js` • `Node.js` • `Tailwind CSS`
-* ⚡ **[Kronix Agency](https://github.com/Erandi-Hans/KronixAgency)** — A high-performance agency landing page built with scalable architecture, modern UI patterns, and smooth animations.  
-  * **Tech Stack:** `React.js` • `Tailwind CSS` • `Vite`
+* 🛠️ **[SillaraAI](https://github.com/Erandi-Hans/SillaraAI.git)** — A trilingual AI E-Commerce co-pilot for SMEs, featuring AI-driven inventory management, multilingual semantic search, and voice-first interfaces.  
+  * **Tech Stack:** `MongoDB Atlas Vector Search` • `MERN Stack` • `React.js` • `Tailwind CSS` • `Framer Motion`
+* 🛠️ **[SkillPivotlk](https://github.com/Erandi-Hans/SkillPivot-Frontend.git)** — A centralized career platform for IT students featuring AI-powered CV customization, skill-gap analysis, and advanced job role discovery using NLP.  
+  * **Tech Stack:** `ASP.NET Core Web API` • `SQL Server` • `React.js`
+* 🤖 **[Semantic Search Engine](https://github.com/Erandi-Hans/Domain-Similarity-Search.git)** — An advanced document retrieval system using cross-domain semantic vector embeddings and cosine similarity scoring for context-aware searches.  
+  * **Tech Stack:** `Python` • `Sentence-Transformers` • `Hugging Face` • `Gradio` • `Google Colab`
+* ⚡ **[Kronix Agency](https://github.com/Erandi-Hans/kronix-agency.git)** — A professional agency landing page focusing on scalable architecture, clean code (DRY principle), and high-performance UI/UX design.  
+  * **Tech Stack:** `React.js` • `Figma` • `Tailwind CSS`
 
 ---
 
-### 💻 Tech Stack & Tools
+### 🔬 Research Experience
+
+* **Undergraduate Researcher – Semantic Computing** | *IYKONS Industry Research Park* (2026 – Present)
+  * Conducting research on NLP-based keyword extraction and transformer models (BERT, SBERT) for automated document analysis.
+  * Collaborating with research leads to design scalable models for real-world enterprise applications.
+* **Independent Researcher – AI Career Systems** | *University of Vavuniya* (2026 – Present)
+  * Developing an AI-Driven Skill Gap Analysis framework paired with an automated CV generation system for ICT undergraduates.
+* **Final Year Researcher – Strategic Planning Systems** | *University of Vavuniya* (2026 – Present)
+  * Researching digitization mechanisms for strategic, action, and financial planning systems focusing on database security and integrity.
+
+---
+
+### 🌐 Open Source & Volunteering
+
+* **Open Source Contributor** | *SSoC Season 5 & Hiero (Linux Foundation)* (2026 – Present)
+  * Actively contributed to large-scale React.js projects and provided technical documentation/content fixes for Hiero decentralized ledger project.
+* **Lab Assistant & Student Mentor** | *University of Vavuniya & IYKONS Ltd.* (2026)
+  * Facilitated technical workshops during the 10-Day Intensive Processing Bootcamp, guiding students on Agile/GitHub workflows and project pitching.
+  * *Recognized with a Letter of Appreciation for support and leadership.*
+
+---
+
+### 💻 Technologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=py,react,nextjs,dotnet,csharp,js,ts,html,css,tailwind,nodejs,express,mongodb,git,github,docker,postman,figma,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erandi-Hans&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/Erandi-Hans" alt="Contribution Chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Erandi-Hans&theme=tokyo-night&bg_color=18181b&color=38bdf8&line=38bdf8&point=ffffff&hide_border=true" width="100%" alt="Activity Graph"/>
 </p>
 
 ---
@@ -75,7 +80,7 @@ I am a Bachelor of Information and Communication Technology (BICT) undergraduate
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/Erandi-Hans"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@Erandi2287/hansika"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/erandi-hansika-a286ab225"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@erandi2287hansika"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="mailto:erandi2287hansika@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
