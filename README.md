@@ -36,6 +36,15 @@ Motivated and enthusiastic BICT (Hons) undergraduate at the **University of Vavu
 
 ---
 
+
+###  Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,py,nextjs,dotnet,cs,ts,html,css,tailwind,nodejs,express,mongodb,git,github,postman,figma,vscode" />
+</p>
+
+---
+
 ###  Featured Projects
 
 *  **[SillaraAI](https://github.com/Erandi-Hans/SillaraAI.git)** — A trilingual AI E-Commerce co-pilot for SMEs, featuring AI-driven inventory management, multilingual semantic search, and voice-first interfaces.  
@@ -50,13 +59,6 @@ Motivated and enthusiastic BICT (Hons) undergraduate at the **University of Vavu
 ---
 
 
-###  Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,py,nextjs,dotnet,cs,ts,html,css,tailwind,nodejs,express,mongodb,git,github,postman,figma,vscode" />
-</p>
-
----
 
 
 ###  Research Experience
